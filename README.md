@@ -1,28 +1,28 @@
-```markdown
 # YOLOv5: Detecting Blood Cells
-
-## Resources
-
-The resources for this project, including the notebook, model weights, videos, and dataset, are provided below:
-
-- **Colab Notebook:** [Colab Notebook](https://colab.research.google.com/drive/1ywBdVlPd8IpGIEh23z1q6JbdhXAM9qQS?usp=sharing)
-- **Google Drive:** [Project Resources](https://drive.google.com/drive/folders/13bZkfdJ7bX8VAwSGjUYwNK4ULrkm5TJr?usp=sharing)
-- **Github Repo:** [Project Resources](https://github.com/Abmstpha/BloodCells-YOLOv5)
-
-### Contents:
-- **Notebook:** `Proejct_YoloV5_detecting_blood_cells.ipynb`
-- **Model Weights:** `best.pt`
-- **Test Video:** `video.mp4`
-- **Test Output:** `output.mp4`
-- **Execution Recording:** `yolo.mp4`
-
----
 
 ## Overview
 
-This project showcases the application of YOLOv5 for detecting and classifying blood cells, including white blood cells (WBC), red blood cells (RBC), and platelets. It covers the complete workflow from dataset preparation to training, evaluation, and inference on new data. 
+This project demonstrates how to train and deploy a YOLOv5 model for detecting and classifying blood cells, including white blood cells (WBC), red blood cells (RBC), and platelets. The workflow leverages a publicly available dataset and Google Colab for training, testing, and evaluating the model.
 
----
+
+the direct colab link to thenotebook is here :
+ - **Colab Notebook:** [Colab Notebook](https://colab.research.google.com/drive/1ywBdVlPd8IpGIEh23z1q6JbdhXAM9qQS?usp=sharing)
+The project resources can be accessed via the following public drive 
+
+- **Google Drive:** [Project Resources](https://drive.google.com/drive/folders/13bZkfdJ7bX8VAwSGjUYwNK4ULrkm5TJr?usp=sharing)
+
+Or preferably  repository:
+
+- **Github Repo:** [Project Resources](https://github.com/Abmstpha/BloodCells-YOLOv5)
+
+
+
+### Resources:
+- **Notebook:** Proejct_YoloV5_detecting_blood_cells.ipynb
+- **Model Weights:** best.pt
+- **Test Video:** video.mp4
+- **Test Output:** output.mp4
+- **Execution Recording:** yolo.mp4
 
 ## Dataset Information
 
