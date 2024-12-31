@@ -6,12 +6,14 @@ This project demonstrates how to train and deploy a YOLOv5 model for detecting a
 
 
 the direct colab link to thenotebook is here :
- - **Colab Notebook:** [Colab Notebook](https://colab.research.google.com/drive/1ywBdVlPd8IpGIEh23z1q6JbdhXAM9qQS?usp=sharing)
-The project resources incluiding the Dataset can be accessed via the following public drive 
+ - **Colab Notebook:** [Colab Notebook](https://colab.research.google.com/drive/1ywBdVlPd8IpGIEh23z1q6JbdhXAM9qQS?usp=sharing)\
 
-- **Google Drive:** [Project Resources](https://drive.google.com/drive/folders/13bZkfdJ7bX8VAwSGjUYwNK4ULrkm5TJr?usp=sharing)
 
-Or preferably  repository:
+The project resources including the Dataset can be accessed via the following public drive :
+
+- **Google Drive:** [Project Resources](https://drive.google.com/drive/folders/13bZkfdJ7bX8VAwSGjUYwNK4ULrkm5TJr?usp=sharing)\
+
+Or preferably this repository:
 
 - **Github Repo:** [Project Resources](https://github.com/Abmstpha/BloodCells-YOLOv5)
 
