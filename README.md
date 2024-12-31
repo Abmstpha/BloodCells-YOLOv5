@@ -7,7 +7,7 @@ This project demonstrates how to train and deploy a YOLOv5 model for detecting a
 
 the direct colab link to thenotebook is here :
  - **Colab Notebook:** [Colab Notebook](https://colab.research.google.com/drive/1ywBdVlPd8IpGIEh23z1q6JbdhXAM9qQS?usp=sharing)
-The project resources can be accessed via the following public drive 
+The project resources incluiding the Dataset can be accessed via the following public drive 
 
 - **Google Drive:** [Project Resources](https://drive.google.com/drive/folders/13bZkfdJ7bX8VAwSGjUYwNK4ULrkm5TJr?usp=sharing)
 
@@ -44,6 +44,8 @@ The dataset comprises 364 images, annotated across three classes. Originally sou
   ![Blood Cell Example](https://i.imgur.com/QwyX2aD.png)
 
 ---
+- **Dataset Link:** [Dataset Link](https://drive.google.com/drive/folders/13bZkfdJ7bX8VAwSGjUYwNK4ULrkm5TJr?usp=sharing)
+
 
 # Step-by-Step Workflow
 
