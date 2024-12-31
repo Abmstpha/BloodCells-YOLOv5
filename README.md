@@ -11,7 +11,7 @@ The project resources can be accessed via the following public drive
 
 - **Google Drive:** [Project Resources](https://drive.google.com/drive/folders/13bZkfdJ7bX8VAwSGjUYwNK4ULrkm5TJr?usp=sharing)
 
-or this or preferable  repository:
+Or preferably  repository:
 
 - **Github Repo:** [Project Resources](https://github.com/Abmstpha/BloodCells-YOLOv5)
 
