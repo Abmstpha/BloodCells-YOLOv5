@@ -6,7 +6,7 @@ This project demonstrates how to train and deploy a YOLOv5 model for detecting a
 
 
 the direct colab link to thenotebook is here :
- - **Colab Notebook:** [Colab Notebook](https://colab.research.google.com/drive/1ywBdVlPd8IpGIEh23z1q6JbdhXAM9qQS?usp=sharing)\
+ - **Colab Notebook:** [Colab Notebook](https://colab.research.google.com/drive/171o4qc6agM0199GZFzyutML7h3L-3cjH?usp=sharing)\
 
 
 The project resources including the Dataset can be accessed via the following public drive :
